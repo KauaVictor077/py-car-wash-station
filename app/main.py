@@ -1,5 +1,4 @@
 class Car:
-    # write your code here
     pass
 
 
